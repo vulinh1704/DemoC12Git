@@ -1,0 +1,22 @@
+{
+  "name": "demogitc12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vulinh1704/DemoC12Git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vulinh1704/DemoC12Git/issues"
+  },
+  "homepage": "https://github.com/vulinh1704/DemoC12Git#readme",
+  "dependencies": {
+    "qs": "^6.11.1"
+  }
+}
